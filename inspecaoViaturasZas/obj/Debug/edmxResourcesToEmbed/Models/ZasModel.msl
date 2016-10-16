@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="viaturas_zasModelStoreContainer" CdmEntityContainer="viaturas_zasEntities">
+    <EntitySetMapping Name="inspecao">
+      <EntityTypeMapping TypeName="viaturas_zasModel.inspecao">
+        <MappingFragment StoreEntitySet="inspecao">
+          <ScalarProperty Name="inspecao_id" ColumnName="inspecao_id" />
+          <ScalarProperty Name="viatura_id" ColumnName="viatura_id" />
+          <ScalarProperty Name="motorista_id" ColumnName="motorista_id" />
+          <ScalarProperty Name="data" ColumnName="data" />
+          <ScalarProperty Name="chassis" ColumnName="chassis" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="motorista">
+      <EntityTypeMapping TypeName="viaturas_zasModel.motorista">
+        <MappingFragment StoreEntitySet="motorista">
+          <ScalarProperty Name="motorista_id" ColumnName="motorista_id" />
+          <ScalarProperty Name="motorista1" ColumnName="motorista" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="contacto" ColumnName="contacto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="viatura">
+      <EntityTypeMapping TypeName="viaturas_zasModel.viatura">
+        <MappingFragment StoreEntitySet="viatura">
+          <ScalarProperty Name="viatura_id" ColumnName="viatura_id" />
+          <ScalarProperty Name="matricula" ColumnName="matricula" />
+          <ScalarProperty Name="movel" ColumnName="movel" />
+          <ScalarProperty Name="marca" ColumnName="marca" />
+          <ScalarProperty Name="modelo" ColumnName="modelo" />
+          <ScalarProperty Name="capacidade" ColumnName="capacidade" />
+          <ScalarProperty Name="peso_bruto" ColumnName="peso_bruto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

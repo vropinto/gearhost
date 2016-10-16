@@ -1,0 +1,167 @@
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\ApplicationInsights.config
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\roslyn\csc.exe
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\roslyn\System.Collections.Immutable.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\roslyn\System.Reflection.Metadata.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\roslyn\vbc.exe
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\roslyn\VBCSCompiler.exe
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\roslyn\VBCSCompiler.exe.config
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\inspecaoViaturasZas.dll.config
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\inspecaoViaturasZas.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\inspecaoViaturasZas.pdb
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Antlr3.Runtime.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\EntityFramework.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\EntityFramework.SqlServer.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.AI.Agent.Intercept.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.AI.DependencyCollector.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.AI.Web.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.AI.WindowsServer.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.ApplicationInsights.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.AspNet.Identity.Core.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.Security.Cookies.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.Security.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.Security.Facebook.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.Security.Google.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.Security.OAuth.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.Security.Twitter.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Web.Infrastructure.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\MySql.Data.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\MySql.Data.Entity.EF6.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Newtonsoft.Json.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Owin.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\System.Web.Helpers.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\System.Web.Mvc.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\System.Web.Optimization.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\System.Web.Razor.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\System.Web.WebPages.Deployment.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\System.Web.WebPages.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\System.Web.WebPages.Razor.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\WebGrease.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.AI.DependencyCollector.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.AI.Web.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.AI.WindowsServer.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.ApplicationInsights.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\System.Web.Helpers.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\System.Web.Mvc.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\System.Web.Optimization.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\System.Web.Razor.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\System.Web.WebPages.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\System.Web.WebPages.Deployment.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\System.Web.WebPages.Razor.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Antlr3.Runtime.pdb
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Newtonsoft.Json.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\EntityFramework.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\EntityFramework.SqlServer.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.AspNet.Identity.Core.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.Security.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.Security.Facebook.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.Security.Cookies.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.Security.OAuth.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.Security.Google.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.Security.Twitter.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\obj\Debug\inspecaoViaturasZas.csprojResolveAssemblyReference.cache
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\obj\Debug\inspecaoViaturasZas.dll
+d:\users\vitor.r.pinto\documents\visual studio 2015\Projects\inspecaoViaturasZas\inspecaoViaturasZas\obj\Debug\inspecaoViaturasZas.pdb
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\ApplicationInsights.config
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\roslyn\csc.exe
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\roslyn\vbc.exe
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\roslyn\VBCSCompiler.exe
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\inspecaoViaturasZas.dll.config
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\inspecaoViaturasZas.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\inspecaoViaturasZas.pdb
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Antlr3.Runtime.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\EntityFramework.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\EntityFramework.SqlServer.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.AI.Web.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.ApplicationInsights.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.Security.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.Security.Google.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\MySql.Data.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\MySql.Data.Entity.EF6.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Newtonsoft.Json.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Owin.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\System.Web.Helpers.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\System.Web.Mvc.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\System.Web.Optimization.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\System.Web.Razor.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\System.Web.WebPages.Deployment.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\System.Web.WebPages.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\System.Web.WebPages.Razor.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\WebGrease.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.AI.Web.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.ApplicationInsights.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\System.Web.Helpers.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\System.Web.Mvc.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\System.Web.Optimization.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\System.Web.Razor.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\System.Web.WebPages.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\System.Web.WebPages.Deployment.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\System.Web.WebPages.Razor.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Antlr3.Runtime.pdb
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Newtonsoft.Json.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\EntityFramework.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\EntityFramework.SqlServer.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.Security.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.Security.Google.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\obj\Debug\inspecaoViaturasZas.dll
+D:\Users\vitor.r.pinto\Documents\Visual Studio 2015\Projects\inspecaoViaturasZas - Cópia\inspecaoViaturasZas\obj\Debug\inspecaoViaturasZas.pdb

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="viaturas_zasModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="inspecao">
+    <Key>
+      <PropertyRef Name="inspecao_id" />
+    </Key>
+    <Property Name="inspecao_id" Type="Int32" Nullable="false" />
+    <Property Name="viatura_id" Type="Int32" Nullable="false" />
+    <Property Name="motorista_id" Type="Int32" Nullable="false" />
+    <Property Name="data" Type="DateTime" />
+    <Property Name="chassis" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="motorista" Relationship="Self.motorista_id" FromRole="inspecao" ToRole="motorista" />
+    <NavigationProperty Name="viatura" Relationship="Self.viatura_id" FromRole="inspecao" ToRole="viatura" />
+  </EntityType>
+  <EntityType Name="motorista">
+    <Key>
+      <PropertyRef Name="motorista_id" />
+    </Key>
+    <Property Name="motorista_id" Type="Int32" Nullable="false" />
+    <Property Name="motorista1" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+    <Property Name="nome" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+    <Property Name="contacto" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="inspecao" Relationship="Self.motorista_id" FromRole="motorista" ToRole="inspecao" />
+  </EntityType>
+  <EntityType Name="viatura">
+    <Key>
+      <PropertyRef Name="viatura_id" />
+    </Key>
+    <Property Name="viatura_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="matricula" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="movel" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Name="marca" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+    <Property Name="modelo" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+    <Property Name="capacidade" Type="Int32" />
+    <Property Name="peso_bruto" Type="Int32" />
+    <NavigationProperty Name="inspecao" Relationship="Self.viatura_id" FromRole="viatura" ToRole="inspecao" />
+  </EntityType>
+  <Association Name="motorista_id">
+    <End Role="motorista" Type="Self.motorista" Multiplicity="1" />
+    <End Role="inspecao" Type="Self.inspecao" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="motorista">
+        <PropertyRef Name="motorista_id" />
+      </Principal>
+      <Dependent Role="inspecao">
+        <PropertyRef Name="motorista_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="viatura_id">
+    <End Role="viatura" Type="Self.viatura" Multiplicity="1" />
+    <End Role="inspecao" Type="Self.inspecao" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="viatura">
+        <PropertyRef Name="viatura_id" />
+      </Principal>
+      <Dependent Role="inspecao">
+        <PropertyRef Name="viatura_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="viaturas_zasEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="inspecao" EntityType="Self.inspecao" />
+    <EntitySet Name="motorista" EntityType="Self.motorista" />
+    <EntitySet Name="viatura" EntityType="Self.viatura" />
+    <AssociationSet Name="motorista_id" Association="Self.motorista_id">
+      <End Role="motorista" EntitySet="motorista" />
+      <End Role="inspecao" EntitySet="inspecao" />
+    </AssociationSet>
+    <AssociationSet Name="viatura_id" Association="Self.viatura_id">
+      <End Role="viatura" EntitySet="viatura" />
+      <End Role="inspecao" EntitySet="inspecao" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

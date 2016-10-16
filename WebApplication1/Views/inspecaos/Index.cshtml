@@ -1,0 +1,93 @@
+﻿@model IEnumerable<WebApplication1.Models.inspecao>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.motorista_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.data)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.chassis)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Eixo_Frente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Eixo_Traz)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Motor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Caixa_Velocidades)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sistema_de_Ar)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sistema_Eletrico)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Outros)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.viatura.matricula)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.motorista_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.data)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.chassis)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Eixo_Frente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Eixo_Traz)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Motor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Caixa_Velocidades)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Sistema_de_Ar)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Sistema_Eletrico)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Outros)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.viatura.matricula)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.inspecao_id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.inspecao_id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.inspecao_id })
+        </td>
+    </tr>
+}
+
+</table>

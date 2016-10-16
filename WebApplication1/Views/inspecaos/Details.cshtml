@@ -1,0 +1,106 @@
+﻿@model WebApplication1.Models.inspecao
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>inspecao</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.motorista_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.motorista_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.data)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.data)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.chassis)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.chassis)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Eixo_Frente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Eixo_Frente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Eixo_Traz)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Eixo_Traz)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Motor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Motor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Caixa_Velocidades)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Caixa_Velocidades)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sistema_de_Ar)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sistema_de_Ar)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sistema_Eletrico)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sistema_Eletrico)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Outros)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Outros)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.viatura.matricula)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.viatura.matricula)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.inspecao_id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
